@@ -1,13 +1,18 @@
-/*Restructured CSS file to match HTML outline*/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/*Restructured the whole CSS file to logically match the HTML outline*/
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*universal selector*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*element selectors*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -21,7 +26,9 @@ p {
     font-size: 16px;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
@@ -38,7 +45,9 @@ p {
     color: #d9dcd6;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*header navigation*/
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,7 +55,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
     font-size: 20px;
 }
-
 
 /*header navigation undordered list*/
 .header nav ul {
@@ -59,7 +67,9 @@ p {
     margin-left: 25px;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*figure*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,14 +79,15 @@ p {
     background-position: center;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*section*/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*section-article*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,6 +97,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/*section-article*/
 
 /*consolidated*/
 .search-engine-optimization,
@@ -114,7 +128,9 @@ p {
     font-size: 36px;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*aside*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,7 +142,9 @@ p {
     background-color: #2589bd;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*aside-article*/
+
 /*consolidated*/
 .benefit-lead,
 .benefit-brand,
@@ -152,6 +170,7 @@ p {
     max-width: 150px;
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 /*footer*/
 .footer {
     padding: 30px;
