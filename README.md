@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=P4Mu1t5rIXg
 Please refer to the LICENSE in the Repo.
 
 ##### Deployment Page
-https://davidmackeydev.github.io/horiseon-refactor/
+[Deployment Page](https://davidmichaelmackey.github.io/code-refactor/)
