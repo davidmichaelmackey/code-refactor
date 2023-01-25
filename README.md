@@ -29,7 +29,7 @@ N/A : No installation necessary. Just click and read along.
 
 ![A screenshot of the website.](./assets/images/screenshot.png)
 
-### Credits
+## Credits
 
 [Basic Terminal Commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
 <br>
@@ -57,10 +57,10 @@ N/A : No installation necessary. Just click and read along.
 <br>
 [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
-#### License
+## License
 
 Please refer to the LICENSE in the Repo.
 
-##### Deployment
+## Deployment
 
 [Deployment Page](https://davidmichaelmackey.github.io/code-refactor/)
