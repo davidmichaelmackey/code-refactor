@@ -1,5 +1,11 @@
-# Description
-This project was to **refactor** the source code to keep up to date with accessibility standards with no visual changes to the web page.
+# Code Refactor
+
+## Description
+Ensured that the existing site is accessible, according to the provided guidelines.
+
+Accessibility is an increasingly important consideration in web design. Inclusive design aims to ensure that all users—including those with disabilities—can interact with and understand the content of a webpage.
+
+## Improvements
 Here's a list of changed improvements to look over:
 
 - Fixed the SEO of this web page by changing the div containers into appropriate semantic elements while keeping a logical order
@@ -17,21 +23,34 @@ Here's a list of changed improvements to look over:
 N/A : No installation necessary. Just click and read along.
 
 ## Usage
-To use this web app, click the navigation links to take you to learn more info about the topic.
-
-## Screenshot
 ![A screenshot of the website.](./assets/images/screenshot.png)
 
 ### Credits
-https://www.youtube.com/watch?v=fvTryZjGyg8
-https://www.w3schools.com/tags/tag_div.asp
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/html/html_attributes.asp
-https://www.w3schools.com/cssref/css_selectors.php
-https://www.w3schools.com/html/html_id.asp
-https://www.w3schools.com/html/html_classes.asp
-https://www.w3schools.com/cssref/pr_font_font-family.php
-https://www.youtube.com/watch?v=P4Mu1t5rIXg
+[Basic Terminal Commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
+<br>
+[Version Control](https://www.atlassian.com/git)
+<br>
+[GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)
+<br>
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<br>
+[Attributes](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
+<br>
+[HTML Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+<br>
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
+[Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+<br>
+[Font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+<br>
+[CSS Selector](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
+<br>
+[Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+<br>
+[Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+<br>
+[Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 #### License
 Please refer to the LICENSE in the Repo.
