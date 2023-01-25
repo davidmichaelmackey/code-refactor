@@ -61,6 +61,6 @@ N/A : No installation necessary. Just click and read along.
 
 Please refer to the LICENSE in the Repo.
 
-##### Deployment Page
+##### Deployment
 
 [Deployment Page](https://davidmichaelmackey.github.io/code-refactor/)
