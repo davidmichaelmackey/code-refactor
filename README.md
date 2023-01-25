@@ -6,9 +6,9 @@ Ensured that the existing site is accessible, according to the provided guidelin
 
 Accessibility is an increasingly important consideration in web design. Inclusive design aims to ensure that all users—including those with disabilities—can interact with and understand the content of a webpage.
 
-## Improvements
+## Features
 
-Here's a list of changed improvements to look over:
+Here's a list of improvements to look over:
 
 - Fixed the SEO of this web page by changing the div containers into appropriate semantic elements while keeping a logical order
 - Fixed CSS typo in font-family and added single quotes to 'Calibri' and the Generic fonts
