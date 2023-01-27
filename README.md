@@ -59,8 +59,8 @@ N/A : No installation necessary. Just click and read along.
 
 ## License
 
-Please refer to the LICENSE in the Repo.
+Please refer to LICENSE.md in the Repo.
 
 ## Deployment
 
-[Deployment Page](https://davidmichaelmackey.github.io/code-refactor/)
+[Code Refactor](https://davidmichaelmackey.github.io/code-refactor/)
